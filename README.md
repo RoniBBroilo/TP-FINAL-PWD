@@ -18,7 +18,7 @@
 
 # Participantes
 
-Roni Broilo - ronniebroilo@gmail.com
+Roni Broilo - ronniebbroilo@gmail.com
 
 Laureano Luna - lunalaureanoluna@gmail.com
 
