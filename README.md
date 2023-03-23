@@ -18,13 +18,15 @@
 
 # Participantes
 
+Roni Broilo - ronniebroilo@gmail.com
+
 Laureano Luna - lunalaureanoluna@gmail.com
 
 Braian Centurión - braiankrayan@hotmail.com
 
 Jeremías Sappia - jeremiassappia@gmail.com
 
-Roni Broilo - ronniebroilo@gmail.com
+
 
 ## Objetivos:
 El objetivo del trabajo es integrar los conceptos vistos en la materia. Se espera que el alumno implemente una tienda On-Line que tendrá 2 vistas: una vista “pública” y otra “privada”.
